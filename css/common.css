@@ -1,0 +1,48 @@
+#switcher
+{
+    background-color: grey;
+    padding-left: 0.5em;
+    padding-bottom: 0.8em;
+    padding-right: 0.5em;
+    float: right;
+
+    border-radius: 0.3em;
+}
+
+.class_content
+{
+    margin-left: 20em;
+    margin-top: 2em;
+}
+
+.basic_conversation
+{
+    margin-left: 0px;
+    position: absolute;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.basic_conversation_index
+{
+    float: left;
+    position: relative;
+    line-height: 5em;
+    background-color: grey;
+    color: white;
+}
+
+.basic_conversation_content
+{
+    float: left;
+    position: relative;
+    margin-left: 1em;
+}
+
+.basic_sentence_area
+{
+    background-color: gray;
+    border-radius: 10px;
+    padding: 10px;
+    width: 600px;
+}
