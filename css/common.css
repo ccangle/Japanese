@@ -1,3 +1,16 @@
+.basic_conversation_content p
+{
+    height: 1.5em;
+    /*margin-top: 1em;
+    margin-bottom: 0em;*/
+}
+
+.first_sentence
+{
+    margin-top: 0.6em;
+    margin-bottom: 0.4em;
+}
+
 #switcher
 {
     background-color: grey;
@@ -17,17 +30,17 @@
 
 .basic_conversation
 {
-    margin-left: 0px;
-    position: absolute;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    position: relative;
+    float: left;
+    width: 100%
 }
 
 .basic_conversation_index
 {
     float: left;
     position: relative;
-    line-height: 5em;
     background-color: grey;
     color: white;
 }
@@ -42,7 +55,9 @@
 .basic_sentence_area
 {
     background-color: gray;
-    border-radius: 10px;
-    padding: 10px;
-    width: 600px;
+    border-radius: 0.625em;
+    padding-left: 0.7em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    width: 35em;
 }
