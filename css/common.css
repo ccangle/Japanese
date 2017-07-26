@@ -24,8 +24,9 @@
 
 .class_content
 {
-    margin-left: 20em;
-    margin-top: 2em;
+    position: absolute;
+    margin-left: 10em;
+    margin-top : 2em;
 }
 
 .basic_conversation
